@@ -1,0 +1,23 @@
+로컬 ->  원격
+
+
+-택배로 비유-
+
+add : 내가 보내고자 하는 물품을 선택하는거
+git add 파일(폴더)
+. ->  전체
+
+
+commit : 선택한 물품을 포장
+git commit -m "메세지"
+
+
+push : 발송
+git push origin 쏘려는 브런치
+
+
+
+원격 ->  로컬
+git pull origin 브런치이름
+
+.
